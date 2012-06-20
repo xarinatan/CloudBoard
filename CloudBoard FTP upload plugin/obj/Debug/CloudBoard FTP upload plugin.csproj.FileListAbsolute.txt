@@ -1,0 +1,7 @@
+C:\git\CloudBoard\CloudBoard FTP upload plugin\bin\Debug\CloudBoard FTP upload plugin.dll
+C:\git\CloudBoard\CloudBoard FTP upload plugin\bin\Debug\CloudBoard FTP upload plugin.pdb
+C:\git\CloudBoard\CloudBoard FTP upload plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\git\CloudBoard\CloudBoard FTP upload plugin\obj\Debug\CloudBoard FTP upload plugin.dll
+C:\git\CloudBoard\CloudBoard FTP upload plugin\obj\Debug\CloudBoard FTP upload plugin.pdb
+C:\git\CloudBoard\CloudBoard\bin\Debug\Plugins\CloudBoard FTP upload plugin.dll
+C:\git\CloudBoard\CloudBoard\bin\Debug\Plugins\CloudBoard FTP upload plugin.pdb

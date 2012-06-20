@@ -1,0 +1,5 @@
+C:\git\CloudBoard\PluginHelperAssembly\bin\Debug\PluginHelperAssembly.dll
+C:\git\CloudBoard\PluginHelperAssembly\bin\Debug\PluginHelperAssembly.pdb
+C:\git\CloudBoard\PluginHelperAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\git\CloudBoard\PluginHelperAssembly\obj\Debug\PluginHelperAssembly.dll
+C:\git\CloudBoard\PluginHelperAssembly\obj\Debug\PluginHelperAssembly.pdb

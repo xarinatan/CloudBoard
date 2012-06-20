@@ -14,7 +14,9 @@ namespace CloudBoard
         public Form_Setup()
         {
             InitializeComponent();
+            PluginHelper.InitializePlugins();
         }
+
 
 
     }

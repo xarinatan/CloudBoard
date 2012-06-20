@@ -7,3 +7,14 @@ C:\Git\Programming\Projects\By Date\2012 Jan - now\CloudBoard\CloudBoard\obj\x86
 C:\Git\Programming\Projects\By Date\2012 Jan - now\CloudBoard\CloudBoard\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Git\Programming\Projects\By Date\2012 Jan - now\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.exe
 C:\Git\Programming\Projects\By Date\2012 Jan - now\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.pdb
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.exe
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.pdb
+C:\git\CloudBoard\CloudBoard\bin\Debug\CloudBoard.exe
+C:\git\CloudBoard\CloudBoard\bin\Debug\CloudBoard.pdb
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.Form_Setup.resources
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\CloudBoard.Properties.Resources.resources
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\git\CloudBoard\CloudBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\git\CloudBoard\CloudBoard\bin\Debug\PluginHelperAssembly.dll
+C:\git\CloudBoard\CloudBoard\bin\Debug\PluginHelperAssembly.pdb
